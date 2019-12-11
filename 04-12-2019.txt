@@ -1,0 +1,27 @@
+
+    таск-репорт 04-12-19
+
+    + Vladimir: посмотретьRoadmap
+    + Vladimir: настроить среду разработки
+    + Vladimir: выслать ссылку на Гитхаб
+    + Vladimir: настроить SSH
+    + Vladimir: посмотреть Быстроновоского
+    + Vladimir: прочитать Git Basics
+    + Vladimir: настроить Git
+    + All: посмотреть презентации проектов
+    + Vladimir: прочитать о Vagrant и VirtualMachine
+    + Vladimir: сделать простую VM;
+    + Vladimir: прочитать о баг-репортах;
+    + Vladimir: прочитать об Agile;
+    + Vladimir: прочитать о Kanban;
+    + Vladimir: прочитать о Scrum;
+    + Vladimir: прочитать "Гит на лету";
+    + Vladimir: прочитать ещё о баг-репортах;
+    + Vladimir: сделать задание по Vagrant;
+    + Vladimir: проверить слепую печать;
+    + Vladimir: подключить календарь;
+    + Veronika: посмотреть презентацию после лекции;
+    - Veronika: сделать задание по сайту;
+    - Veronika: посмотреть видео о Figma (1/3);
+    - Konstantin: поиграть с Docker ;
+    + Vitalya: описать задания для сайта в Backlog;  

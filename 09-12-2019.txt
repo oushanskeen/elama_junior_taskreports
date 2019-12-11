@@ -1,0 +1,10 @@
+
+    таск-репорт 09-12-19
+
+    - Veronika: сделать задание по сайту (то что делается с Vitalya) - приём прототипа перенесли на четверг ;
+    - Konstantin: поиграть с Docker ;
+    - Veronika: HTML bio;
+    - Veronika: HTML лекция;
+    + Veronika: досмотреть видео о Figma;
+    + Vitalya: написать сценарий (pseudo-React) для сайта;
+    + Vitalya: сделать mock-up;
