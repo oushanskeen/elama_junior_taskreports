@@ -5,13 +5,13 @@
     - Konstantin: поиграть с Docker ;
     - Veronika: HTML лекция (1/2);
     - Me: презентация своего проекта;Veronika:watchCSS:learnbookOne
-    - Veronika:watchCSS:learnbookTwo
-    - Veronika:watchCSS:grid+flexboxOne
-    - Veronika:watchCSS:grid+flexboxTwo
-    - Veronika:watchCSS:BEM
-    - Veronika:watchCSS:UIFrameworksOne
-    - Veronika:watchCSS:UIFrameworksTwo
-    - Veronika:watchCSS:video
+    - Veronika: посмотреть CSS:learnbookTwo
+    - Veronika: посмотреть CSS: grid+flexbox.One
+    - Veronika: посмотреть CSS: grid+flexbox.Two
+    - Veronika: посмотреть CSS: BEM
+    - Veronika: посмотреть CSS: UIFrameworksOne
+    - Veronika: посмотреть CSS: UIFrameworksTwo
+    - Veronika: посмотреть CSS:video
     + Victoria: посмотреть Базы Данных часть 1;
     + Victoria: посмотреть Базы Данных часть 2;
     + Victoria: посмотреть Базы Данных часть 3;
