@@ -4,5 +4,12 @@
     - Konstantin: поиграть с Docker;
     - Veronika: HTML лекция (1/2);
     - Me: презентация своего проекта;
+    - Veronika: посмотреть CSS:learnbookTwo
+    - Veronika: посмотреть CSS: grid+flexbox.One
+    - Veronika: посмотреть CSS: grid+flexbox.Two
+    - Veronika: посмотреть CSS: BEM
+    - Veronika: посмотреть CSS: UIFrameworksOne
+    - Veronika: посмотреть CSS: UIFrameworksTwo
+    - Veronika: посмотреть CSS: video
     + Veronika: сделать задание по сайту (то что делается с Vitalya);
 

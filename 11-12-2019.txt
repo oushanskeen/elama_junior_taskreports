@@ -11,7 +11,7 @@
     - Veronika: посмотреть CSS: BEM
     - Veronika: посмотреть CSS: UIFrameworksOne
     - Veronika: посмотреть CSS: UIFrameworksTwo
-    - Veronika: посмотреть CSS:video
+    - Veronika: посмотреть CSS: video
     + Victoria: посмотреть Базы Данных часть 1;
     + Victoria: посмотреть Базы Данных часть 2;
     + Victoria: посмотреть Базы Данных часть 3;
