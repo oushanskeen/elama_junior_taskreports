@@ -1,15 +1,18 @@
 
-    таск-репорт 12-12-2019
+    таск-репорт 13-12-2019
 
     - Konstantin: поиграть с Docker;
     - Veronika: HTML лекция (1/2);
-    - Me: презентация своего проекта;
-    - Veronika: посмотреть CSS:learnbookTwo
+    - Veronika: посмотреть CSS: learnbookTwo
     - Veronika: посмотреть CSS: grid+flexbox.One
     - Veronika: посмотреть CSS: grid+flexbox.Two
     - Veronika: посмотреть CSS: BEM
     - Veronika: посмотреть CSS: UIFrameworksOne
     - Veronika: посмотреть CSS: UIFrameworksTwo
     - Veronika: посмотреть CSS: video
-    + Veronika: сделать задание по саcdйту (то что делается с Vitalya);
-
+    - Veronika: сделать CSS: bio
+    - Veronika: сделать HTML: работа над ошибками
+    - Victoria: сделать DB: модель бд
+    - Armand: сделать Python: дз (1/2)
+    + Me: выслать презентацию своего проекта;
+    
