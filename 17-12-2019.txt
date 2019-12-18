@@ -1,0 +1,25 @@
+
+    таск-репорт 17-12-2019
+
+    - Konstantin: поиграть с Docker;
+    - Veronika: HTML лекция (1/2);
+    - Veronika: посмотреть CSS: learnbookTwo
+    - Veronika: посмотреть CSS: grid+flexbox.One
+    - Veronika: посмотреть CSS: grid+flexbox.Two
+    + Veronika: посмотреть CSS: BEM
+    - Veronika: посмотреть CSS: video
+    p Veronika: сделать Сайт: работа над ошибками
+    + Veronika: сделать CSS: bio
+        : разобрал на компоненты и пришлось 
+          разбираться с webpack, чтобы их склеить.
+    p Veronika: сделать HTML: работа над ошибками
+    p Victoria: сделать DB: модель бд
+    p Armand: сделать миграцию Python-Flask: дз (1/2)
+        : так как тут пример на Python, а его надо учить,
+          чтобы адекватно пользоваться, я взял вариант из, 
+          в идеале, будущего рабочего стека MERN (MongoDB) и пока 
+          только разобрался с основными операциями из NODE.JS.
+    + Me: написать пользовательский сценарий для своего проекта
+    - Me: описать EpicStoryTask для MVP в трелло
+
+    
