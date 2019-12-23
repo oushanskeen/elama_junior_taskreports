@@ -1,0 +1,23 @@
+
+    таск-репорт 22-12-2019
+
+    - Konstantin: поиграть с Docker;
+    - Veronika: HTML лекция (1/2);
+    - Veronika: посмотреть CSS: learnbookTwo
+    - Veronika: посмотреть CSS: video
+    p Victoria: сделать DB: модель бд
+    p Armand: сделать миграцию Python-Flask: дз (1/2)
+        : так как тут пример на Python, а его надо учить,
+          чтобы адекватно пользоваться, я взял вариант из, 
+          в идеале, будущего рабочего стека MERN (MongoDB) и пока 
+          только разобрался с основными операциями из NODE.JS. 
+    p Vitalya: сделать Trello по проекту
+        p Vitalya: выделить максимум tasks из Acceptance Criteria
+            + Me: сделать бойлерплейт на MERN стэке
+            + Vladimir: упаковать приложение в Docker и выложить на Github 
+    - Veronika: посмотреть JS ...
+    - Veronika: сделать JS ...
+    
+      
+
+    
